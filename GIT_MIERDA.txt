@@ -1,0 +1,24 @@
+
+GitHub
+
+cuenta: rederogregorio2@gmail.com 
+usuario rederogregoriomartin
+pasword: 210168salamanca
+
+********************************* VIDEO *****************************
+congigurar git con github
+https://www.youtube.com/watch?v=wHh3IgJvXcE
+****************************************************************
+
+1) Generar una nueva clave SSH y agregarla al ssh-agent
+
+https://docs.github.com/es/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+
+
+
+
+
+
+
+
